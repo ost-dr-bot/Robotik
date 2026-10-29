@@ -1,0 +1,10 @@
+<map id="lib/hal/src" name="lib/hal/src">
+<area shape="rect" id="node1" href="dir_3d719db0146fbbba7ba2f65d74f9184b.html" title="include" alt="" coords="27,125,96,151"/>
+<area shape="rect" id="node2" href="dir_b4254eca1240d006809956257cb83a75.html" title="src" alt="" coords="47,52,89,77"/>
+<area shape="poly" id="edge1" href="dir_000015_000007.html" alt="" coords="70,78,66,112,61,112,64,77"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000015_000007.html" title="2" alt="" coords="68,101,77,115"/>
+<area shape="rect" id="node3" href="dir_fb18a29a0c8001ef3be01c938774e09f.html" title="safety_system" alt="" coords="121,125,239,151"/>
+<area shape="poly" id="edge2" href="dir_000015_000012.html" alt="" coords="87,75,151,115,148,120,85,80"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000015_000012.html" title="1" alt="" coords="146,101,156,116"/>
+<area shape="rect" id="clust1" href="dir_e870e4dac26de7990352b1cb7547818f.html" title="hal" alt="" coords="16,16,107,161"/>
+</map>

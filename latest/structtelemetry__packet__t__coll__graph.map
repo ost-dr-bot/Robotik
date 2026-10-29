@@ -1,0 +1,9 @@
+<map id="telemetry_packet_t" name="telemetry_packet_t">
+<area shape="rect" id="Node000001" title="Telemetry Packet Structure (UDP Datagram Wire Format)." alt="" coords="260,116,408,141"/>
+<area shape="rect" id="Node000002" href="$structtelemetry__safety__sample__t.html" title="Telemetry Safety Sample Structure." alt="" coords="5,13,207,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,44,174,67,218,90,288,113,286,118,216,94,171,72,133,48"/>
+<area shape="rect" id="Node000003" href="$structtelemetry__control__sample__t.html" title="Telemetry Control Sample Structure." alt="" coords="231,13,437,38"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="337,52,337,116,331,116,331,52"/>
+<area shape="rect" id="Node000004" href="$structtelemetry__sequencer__sample__t.html" title="Telemetry Sequencer Sample Structure." alt="" coords="461,5,621,45"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="512,57,486,77,457,94,423,108,390,119,388,113,421,103,454,90,483,72,509,52"/>
+</map>

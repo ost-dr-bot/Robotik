@@ -1,0 +1,6 @@
+<map id="doubly_linked_step_list_node" name="doubly_linked_step_list_node">
+<area shape="rect" id="Node000001" title="Node structure for the doubly linked list of sequencer steps." alt="" coords="5,103,152,143"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="166,112,175,116,179,123,171,132,153,135,152,130,168,127,173,122,171,120,164,117"/>
+<area shape="rect" id="Node000002" href="$structsequencer__step__t.html" title="Structure representing a sequencer step." alt="" coords="11,5,147,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,44,81,103,76,103,76,44"/>
+</map>

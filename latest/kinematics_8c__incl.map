@@ -1,0 +1,13 @@
+<map id="templates/kinematics.c" name="templates/kinematics.c">
+<area shape="rect" id="Node000001" title="Kinematics implementation for the robot system." alt="" coords="115,5,290,31"/>
+<area shape="rect" id="Node000002" href="$kinematics_8h.html" title="Kinematics header file for the robot system." alt="" coords="5,79,112,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,33,96,75,93,70,178,28"/>
+<area shape="rect" id="Node000004" href="$common__math_8h.html" title="Common mathematical functions header file." alt="" coords="137,79,269,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,31,205,65,200,65,200,31"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="293,79,361,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="224,28,296,69,293,74,221,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="18,152,99,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="61,104,61,138,56,138,56,104"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="167,152,238,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="205,104,205,138,200,138,200,104"/>
+</map>

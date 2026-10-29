@@ -1,0 +1,7 @@
+<map id="lib/control_system/include/control_system.h" name="lib/control_system/include/control_system.h">
+<area shape="rect" id="Node000001" title="Control system header file." alt="" coords="65,5,255,45"/>
+<area shape="rect" id="Node000002" href="$control__system_8c.html" title="Control system implementation." alt="" coords="5,93,165,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,58,104,95,100,91,132,54"/>
+<area shape="rect" id="Node000003" href="$main_8c.html" title="Main application entry point." alt="" coords="190,101,279,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,54,226,98,222,102,184,58"/>
+</map>

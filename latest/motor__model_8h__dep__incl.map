@@ -1,0 +1,5 @@
+<map id="templates/motor_model.h" name="templates/motor_model.h">
+<area shape="rect" id="Node000001" title="Motor model header file." alt="" coords="5,5,196,31"/>
+<area shape="rect" id="Node000002" href="$motor__model_8c.html" title="Motor model implementation file." alt="" coords="5,79,196,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,44,103,79,98,79,98,44"/>
+</map>

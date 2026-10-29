@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['udp_5finterface_5fadd_5fcontrol_5fsample_0',['udp_interface_add_control_sample',['../udp__interface_8h.html#ab42a36a8d3315123feffe418b13a7f91',1,'udp_interface_add_control_sample(float enc_A_pos, float enc_B_pos):&#160;udp_interface.c'],['../udp__interface_8c.html#ab42a36a8d3315123feffe418b13a7f91',1,'udp_interface_add_control_sample(float enc_A_pos, float enc_B_pos):&#160;udp_interface.c']]],
+  ['udp_5finterface_5fadd_5fsafety_5fsample_1',['udp_interface_add_safety_sample',['../udp__interface_8h.html#acb00a69ed1834fef3b06e3f2b5918780',1,'udp_interface_add_safety_sample(safety_level_t safety_level):&#160;udp_interface.c'],['../udp__interface_8c.html#acb00a69ed1834fef3b06e3f2b5918780',1,'udp_interface_add_safety_sample(safety_level_t safety_level):&#160;udp_interface.c']]],
+  ['udp_5finterface_5finit_2',['udp_interface_init',['../udp__interface_8h.html#aca61b2e39e2a62cb1cd37adf75a21369',1,'udp_interface_init(const udp_interface_config_t *config):&#160;udp_interface.c'],['../udp__interface_8c.html#aca61b2e39e2a62cb1cd37adf75a21369',1,'udp_interface_init(const udp_interface_config_t *config):&#160;udp_interface.c']]],
+  ['udp_5finterface_5ftask_3',['udp_interface_task',['../udp__interface_8h.html#a5541540166f979fd40d84a4226135646',1,'udp_interface_task(void *arg):&#160;udp_interface.c'],['../udp__interface_8c.html#a5541540166f979fd40d84a4226135646',1,'udp_interface_task(void *arg):&#160;udp_interface.c']]],
+  ['update_5fbus_5fvoltage_5ftask_4',['update_bus_voltage_task',['../motor__driver_8h.html#a9faa987f5036ce8ed81daa5c69918602',1,'update_bus_voltage_task(void *arg):&#160;motor_driver.c'],['../motor__driver_8c.html#a9faa987f5036ce8ed81daa5c69918602',1,'update_bus_voltage_task(void *arg):&#160;motor_driver.c']]]
+];

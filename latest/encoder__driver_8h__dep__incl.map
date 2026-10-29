@@ -1,0 +1,11 @@
+<map id="lib/hal/include/encoder_driver.h" name="lib/hal/include/encoder_driver.h">
+<area shape="rect" id="Node000001" title="Header file for the encoder driver module." alt="" coords="170,5,339,45"/>
+<area shape="rect" id="Node000002" href="$control__system_8h.html" title="Control system header file." alt="" coords="65,93,255,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,57,183,95,179,91,222,53"/>
+<area shape="rect" id="Node000005" href="$encoder__driver_8c.html" title="Encoder driver implementation." alt="" coords="279,93,420,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="288,53,330,91,327,95,284,57"/>
+<area shape="rect" id="Node000003" href="$control__system_8c.html" title="Control system implementation." alt="" coords="5,181,165,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,146,104,183,100,179,132,142"/>
+<area shape="rect" id="Node000004" href="$main_8c.html" title="Main application entry point." alt="" coords="190,189,279,214"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="188,142,226,186,222,190,184,146"/>
+</map>

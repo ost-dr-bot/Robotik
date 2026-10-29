@@ -1,0 +1,16 @@
+<map id="templates/motor_model.c" name="templates/motor_model.c">
+<area shape="rect" id="Node000001" title="Motor model implementation file." alt="" coords="184,5,375,31"/>
+<area shape="rect" id="Node000002" href="$motor__model_8h.html" title="Motor model header file." alt="" coords="5,79,127,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,33,114,77,113,72,244,28"/>
+<area shape="rect" id="Node000005" href="$common__math_8h.html" title="Common mathematical functions header file." alt="" coords="151,79,283,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="271,33,238,70,234,66,267,29"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="307,79,377,104"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="292,29,325,66,321,70,288,33"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="401,79,472,104"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="306,28,400,71,398,75,304,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="25,152,107,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="69,104,69,138,63,138,63,104"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="156,152,227,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="87,102,160,143,158,147,85,106"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="215,105,202,140,197,138,210,103"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="lib/udp_interface/include/udp_interface.h" name="lib/udp_interface/include/udp_interface.h">
+<area shape="rect" id="Node000001" title="UDP interface for handling network communication." alt="" coords="270,5,453,45"/>
+<area shape="rect" id="Node000002" href="$control__system_8c.html" title="Control system implementation." alt="" coords="5,93,165,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,52,147,96,145,91,287,47"/>
+<area shape="rect" id="Node000003" href="$safety__system_8c.html" title="Safety system implementation." alt="" coords="190,93,351,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="333,57,293,95,289,91,330,53"/>
+<area shape="rect" id="Node000004" href="$udp__interface_8c.html" title="UDP interface implementation." alt="" coords="376,93,531,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="393,53,435,91,431,95,390,57"/>
+<area shape="rect" id="Node000005" href="$main_8c.html" title="Main application entry point." alt="" coords="555,101,645,126"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="427,47,569,98,567,103,425,52"/>
+</map>

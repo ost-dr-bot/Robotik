@@ -1,0 +1,9 @@
+<map id="lib/sequencer/include/sequencer.h" name="lib/sequencer/include/sequencer.h">
+<area shape="rect" id="Node000001" title="Sequencer interface for the application." alt="" coords="240,5,400,45"/>
+<area shape="rect" id="Node000002" href="$sequencer_8c.html" title="Implementation of the sequencer interface." alt="" coords="5,101,219,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,53,141,103,139,98,261,48"/>
+<area shape="rect" id="Node000003" href="$udp__interface_8c.html" title="UDP interface implementation." alt="" coords="243,93,397,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="323,59,323,93,317,93,317,59"/>
+<area shape="rect" id="Node000004" href="$main_8c.html" title="Main application entry point." alt="" coords="422,101,511,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="365,50,448,98,446,103,363,55"/>
+</map>

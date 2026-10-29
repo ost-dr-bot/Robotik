@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['udp_20telemetry_0',['UDP telemetry',['../index.html#autotoc_md12',1,'']]],
+  ['udp_20telemetry_20command_20interface_1',['Host side ESP32 UDP telemetry/command interface',['../dir_7fb88deff7a1179c2129339c39b4c556.html#autotoc_md0',1,'']]],
+  ['udp_5fcore_2',['udp_core',['../namespaceudp__core.html',1,'']]],
+  ['udp_5fcore_20py_3',['Shared core (&lt;span class=&quot;tt&quot;&gt;core/udp_core.py&lt;/span&gt;)',['../dir_7fb88deff7a1179c2129339c39b4c556.html#autotoc_md1',1,'']]],
+  ['udp_5fcore_2epy_4',['udp_core.py',['../udp__core_8py.html',1,'']]],
+  ['udp_5finterface_2ec_5',['udp_interface.c',['../udp__interface_8c.html',1,'']]],
+  ['udp_5finterface_2eh_6',['udp_interface.h',['../udp__interface_8h.html',1,'']]],
+  ['udp_5finterface_5fadd_5fcontrol_5fsample_7',['udp_interface_add_control_sample',['../udp__interface_8h.html#ab42a36a8d3315123feffe418b13a7f91',1,'udp_interface_add_control_sample(float enc_A_pos, float enc_B_pos):&#160;udp_interface.c'],['../udp__interface_8c.html#ab42a36a8d3315123feffe418b13a7f91',1,'udp_interface_add_control_sample(float enc_A_pos, float enc_B_pos):&#160;udp_interface.c']]],
+  ['udp_5finterface_5fadd_5fsafety_5fsample_8',['udp_interface_add_safety_sample',['../udp__interface_8h.html#acb00a69ed1834fef3b06e3f2b5918780',1,'udp_interface_add_safety_sample(safety_level_t safety_level):&#160;udp_interface.c'],['../udp__interface_8c.html#acb00a69ed1834fef3b06e3f2b5918780',1,'udp_interface_add_safety_sample(safety_level_t safety_level):&#160;udp_interface.c']]],
+  ['udp_5finterface_5fconfig_5ft_9',['udp_interface_config_t',['../structudp__interface__config__t.html',1,'']]],
+  ['udp_5finterface_5finit_10',['udp_interface_init',['../udp__interface_8h.html#aca61b2e39e2a62cb1cd37adf75a21369',1,'udp_interface_init(const udp_interface_config_t *config):&#160;udp_interface.c'],['../udp__interface_8c.html#aca61b2e39e2a62cb1cd37adf75a21369',1,'udp_interface_init(const udp_interface_config_t *config):&#160;udp_interface.c']]],
+  ['udp_5finterface_5finitialized_5fbit_11',['UDP_INTERFACE_INITIALIZED_BIT',['../udp__interface_8c.html#af1683b8eaacf1c0d74968fe6e96fbe22',1,'udp_interface.c']]],
+  ['udp_5finterface_5ftask_12',['udp_interface_task',['../udp__interface_8h.html#a5541540166f979fd40d84a4226135646',1,'udp_interface_task(void *arg):&#160;udp_interface.c'],['../udp__interface_8c.html#a5541540166f979fd40d84a4226135646',1,'udp_interface_task(void *arg):&#160;udp_interface.c']]],
+  ['udp_5fport_13',['udp_port',['../structudp__interface__config__t.html#a8d93540b1ceafa3f9425c72763b256d0',1,'udp_interface_config_t']]],
+  ['udpclient_14',['UdpClient',['../classudp__core_1_1UdpClient.html',1,'udp_core']]],
+  ['upd_5finterface_5fhostname_15',['UPD_INTERFACE_HOSTNAME',['../config_8h.html#a364a227f3039720cb8547af8d1406d21',1,'config.h']]],
+  ['upd_5finterface_5ftask_5fperiod_5fms_16',['UPD_INTERFACE_TASK_PERIOD_MS',['../config_8h.html#a2223a5719614413027fa18b9c872272a',1,'config.h']]],
+  ['upd_5finterface_5ftelemetry_5fqueue_5flen_17',['UPD_INTERFACE_TELEMETRY_QUEUE_LEN',['../config_8h.html#a01aa1992ed840607b7ebbeb47f2d90eb',1,'config.h']]],
+  ['upd_5finterface_5fudp_5fport_18',['UPD_INTERFACE_UDP_PORT',['../config_8h.html#acfe55fc85c69d993b2e9af4e2a42a876',1,'config.h']]],
+  ['update_5fbus_5fvoltage_5ftask_19',['update_bus_voltage_task',['../motor__driver_8h.html#a9faa987f5036ce8ed81daa5c69918602',1,'update_bus_voltage_task(void *arg):&#160;motor_driver.c'],['../motor__driver_8c.html#a9faa987f5036ce8ed81daa5c69918602',1,'update_bus_voltage_task(void *arg):&#160;motor_driver.c']]],
+  ['usage_20',['Python Usage',['../dir_7fb88deff7a1179c2129339c39b4c556.html#autotoc_md3',1,'']]],
+  ['usage_21',['Command-line usage',['../dir_7fb88deff7a1179c2129339c39b4c556.html#autotoc_md4',1,'']]]
+];

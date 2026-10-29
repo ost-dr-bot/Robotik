@@ -1,0 +1,7 @@
+<map id="control_system_config_t" name="control_system_config_t">
+<area shape="rect" id="Node000001" title="Control system configuration structure." alt="" coords="101,101,281,127"/>
+<area shape="rect" id="Node000002" href="$structencoder__driver__config__t.html" title="Configuration structure for the encoder driver." alt="" coords="5,5,183,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,39,155,75,180,99,177,103,151,79,113,43"/>
+<area shape="rect" id="Node000003" href="$structmotor__driver__config__t.html" title="Motor driver configuration structure." alt="" coords="207,5,371,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,45,274,63,261,79,243,93,224,104,222,99,240,89,257,75,269,60,278,42"/>
+</map>
