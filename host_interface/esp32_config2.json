@@ -1,0 +1,4 @@
+{
+  "esp32_host": "esp32-robot.local",
+  "esp32_port": 3333
+}
