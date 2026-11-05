@@ -58,6 +58,18 @@ esp_err_t control_system_init(const control_system_config_t *config)
     return ESP_OK;
 }
 
+float triangle(float t_ms, float period_ms)
+{
+    float phase = fmodf(t_ms / period_ms, 1.0f);
+
+    if (phase < 0.0f)
+        phase += 1.0f;
+
+    return phase < 0.5f
+        ? -1.0f + 4.0f * phase
+        : 3.0f - 4.0f * phase;
+}
+
 void control_system_task(void *arg)
 {
     // Register the control system task with the safety system
@@ -68,11 +80,22 @@ void control_system_task(void *arg)
 
     // Main control loop
     float shaft_angles[2] = {0.0f, 0.0f};
+    float voltage[2] = {0.0f, 0.0f};
     TickType_t last_wake = xTaskGetTickCount();
     while (!safety_system_is_shutting_down())
     {
+
+        // Read the shaft angles from the encoder
+        encoder_driver_get_angles(shaft_angles);
+
         // Add telemetry samples to the UDP interface
         udp_interface_add_control_sample(shaft_angles[0], shaft_angles[1]);
+
+        voltage[0] = sin(0.2f * 3.14159f * (float)xTaskGetTickCount() / 1000.0f) * 5.0f; // Example voltage for motor A
+        voltage[1] = (2*triangle(0.5f * (float)xTaskGetTickCount()/ 1000.0f, 5.0f)-1) * 5.0f; // Example voltage for motor B
+        //calculate the voltage to the motors
+        motor_driver_set_voltage_motor_A(voltage[0]);
+        motor_driver_set_voltage_motor_B(voltage[1]);
 
         // Wait for the next cycle
         xTaskDelayUntil(&last_wake, pdMS_TO_TICKS(cfg.task_period_ms));
@@ -84,3 +107,5 @@ void control_system_task(void *arg)
     ESP_LOGI(TAG, "Control system task finished.");
     vTaskDelete(NULL);
 }
+
+

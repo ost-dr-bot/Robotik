@@ -221,7 +221,7 @@ def main():
     parser.add_argument(
         "--port", type=int, default=None, help="ESP32 UDP port (default: 3333, or config file)"
     )
-    parser.add_argument("--http-port", type=int, default=8080, help="Web GUI HTTP port (default: 8080)")
+    parser.add_argument("--http-port", type=int, default=8081, help="Web GUI HTTP port (default: 8080)")
     parser.add_argument("--config", default=None, help="Path to esp32_config.json (default: auto-search)")
     args = parser.parse_args()
 
