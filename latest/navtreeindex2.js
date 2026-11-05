@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"structencoder__driver__config__t.html#a8e45653138a244477f9432f83a5bc961":[2,0,7,1],
 "structkinematics__config__t.html":[2,0,8],
 "structkinematics__config__t.html#a595a89c66991ab115a4bcbfbe810726d":[2,0,8,1],
 "structkinematics__config__t.html#a778e38aa889751afffa2dea6b803e67a":[2,0,8,0],

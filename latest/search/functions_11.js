@@ -6,5 +6,6 @@ var searchData=
   ['test_5fderivative_5ffunction_5f2d_3',['test_derivative_function_2d',['../common__math__test_8c.html#a7713622d502a9aee5a2e18fe0fa8623f',1,'common_math_test.c']]],
   ['test_5fintegral_5ffunction_4',['test_integral_function',['../common__math__test_8c.html#a7bcfd6df66b661a4d654cad48565c8a6',1,'common_math_test.c']]],
   ['test_5fintegral_5ffunction_5f2d_5',['test_integral_function_2d',['../common__math__test_8c.html#a2cff621fefe20815f5904f68a89a6c16',1,'common_math_test.c']]],
-  ['test_5fmatrix_5fvector_5fmultiplication_6',['test_matrix_vector_multiplication',['../common__math__test_8c.html#ae331bc49b0fbca7f89be75e428f3a124',1,'common_math_test.c']]]
+  ['test_5fmatrix_5fvector_5fmultiplication_6',['test_matrix_vector_multiplication',['../common__math__test_8c.html#ae331bc49b0fbca7f89be75e428f3a124',1,'common_math_test.c']]],
+  ['triangle_7',['triangle',['../control__system_8c.html#a85c124217b520a405b360922d121904c',1,'control_system.c']]]
 ];

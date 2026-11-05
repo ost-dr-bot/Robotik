@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"main_8c.html":[3,0,3,0],
 "main_8c.html#a5a85b9c772bbeb480b209a3e6ea92b4c":[3,0,3,0,1],
 "main_8c.html#abce06be17fc37d675118a678a8100a36":[3,0,3,0,0],
 "motor__driver_8c.html":[3,0,2,1,1,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "structdoubly__linked__step__list__node.html#a6bc2c90e8828890235f2e26e4057cebc":[2,0,6,0],
 "structdoubly__linked__step__list__node.html#ab6494ab809a9fa7364b4ede3bbc0769a":[2,0,6,2],
 "structencoder__driver__config__t.html":[2,0,7],
-"structencoder__driver__config__t.html#a827bf6b9189ad74ad588151878bd58c2":[2,0,7,0],
-"structencoder__driver__config__t.html#a8e45653138a244477f9432f83a5bc961":[2,0,7,1]
+"structencoder__driver__config__t.html#a827bf6b9189ad74ad588151878bd58c2":[2,0,7,0]
 };

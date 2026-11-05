@@ -33,6 +33,7 @@ var searchData=
   ['total_5fpackets_30',['total_packets',['../classudp__core_1_1LinkStats.html#a5863f03d132d51a907e6b1d15f1dc027',1,'udp_core::LinkStats']]],
   ['total_5fsamples_31',['total_samples',['../classudp__core_1_1LinkStats.html#ab76bdf059e5bbe794f6be8c4f2ce136e',1,'udp_core::LinkStats']]],
   ['transmission_5fratio_32',['transmission_ratio',['../structmotor__model__params__t.html#a2be283683f477599998b44f77b29afbc',1,'motor_model_params_t']]],
-  ['type_33',['type',['../structsequencer__step__t.html#a4e222f2e3c047cca88b6582f2e4ed661',1,'sequencer_step_t::type'],['../structtelemetry__sequencer__sample__t.html#a1d127017fb298b889f4ba24752d08b8e',1,'telemetry_sequencer_sample_t::type']]],
-  ['types_34',['B. Changing sequencer step types',['../dir_7fb88deff7a1179c2129339c39b4c556.html#autotoc_md8',1,'']]]
+  ['triangle_33',['triangle',['../control__system_8c.html#a85c124217b520a405b360922d121904c',1,'control_system.c']]],
+  ['type_34',['type',['../structsequencer__step__t.html#a4e222f2e3c047cca88b6582f2e4ed661',1,'sequencer_step_t::type'],['../structtelemetry__sequencer__sample__t.html#a1d127017fb298b889f4ba24752d08b8e',1,'telemetry_sequencer_sample_t::type']]],
+  ['types_35',['B. Changing sequencer step types',['../dir_7fb88deff7a1179c2129339c39b4c556.html#autotoc_md8',1,'']]]
 ];
